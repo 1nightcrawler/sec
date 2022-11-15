@@ -18,9 +18,15 @@ https://www.guerrillamail.com/
 
 ## ip tools
 https://ifconfig.me/ \
-https://rdap.apnic.net/ip/1.1.1.1 \
 https://geoip.com/ \
 https://urlscan.io/
+
+
+
+
+
+
+
 
 ## hash / encoding tools
 https://gchq.github.io/CyberChef \
