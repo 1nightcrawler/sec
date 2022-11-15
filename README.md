@@ -2,7 +2,7 @@
 
 ## search engines
 https://www.shodan.io IoT search \
-https://www.wigle.net/ Network search \
+https://www.wigle.net/ Network search 
 
 ## image search 
 https://yandex.com/images/ Yandex image search \
