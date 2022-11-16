@@ -21,18 +21,14 @@ https://ifconfig.me/ \
 https://geoip.com/ \
 https://urlscan.io/
 
-
-
-
-
-
-
-
 ## hash / encoding tools
 https://gchq.github.io/CyberChef \
 https://crackstation.net/ \
 https://www.base64decode.org/ \
 https://www.dcode.fr/en
+
+## image analysis
+https://www.aperisolve.com/
 
 ## books / reading
 http://libgen.rs/ \
@@ -70,8 +66,11 @@ https://vx-underground.org/ \
 https://news.ycombinator.com/ \
 http://phrack.org/
 
-## blogs
-https://educatedguesswork.org/
+## ctfs
+https://play.picoctf.org/practice PicoCTF \
+https://ctftime.org/ CTFtime \
+https://overthewire.org/wargames/ OTW 
+
 
 ## misc
 https://pyob.oxyry.com/ \
