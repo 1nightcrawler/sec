@@ -36,7 +36,7 @@ https://z-lib.org/ \
 https://www.freehaven.net/anonbib/date.html \
 https://book.hacktricks.xyz/
 
-## frameworks
+## OSINT
 https://osintframework.com/
 
 ## payload tools 
@@ -79,3 +79,5 @@ https://archive.org/web/ \
 https://www.kirsle.net/wizards/flask-session.cgi \
 https://docs.microsoft.com/en-us/sysinternals/downloads/security-utilities \
 https://www.thc.org/segfault/
+
+
